@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/html":{"type":"virtualbox","SharedFoldersEnableSymlinksCreate":false,"guestpath":"/var/www/html","hostpath":"C:/Users/Omar Hidalgo/vagrant-apache-nginx","disabled":false,"__vagrantfile":true}}}
